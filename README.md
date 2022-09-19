@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 - 🔭 I’m currently working on **building up my GitHub profile with data science projects.**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning concepts.t**
+- 🌱 I’m currently learning **Data Science and Machine Learning concepts.**
 
 - 👯 I’m looking to collaborate on **any of the presented data-science projects or open to other projects**
 
